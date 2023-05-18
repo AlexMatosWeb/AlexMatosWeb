@@ -15,13 +15,10 @@
   
    <br> <br>
   
-<p align="center">
+<p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs"/>
-      <br/><br/>
-     <img src="https://skillicons.dev/icons?i=bootstrap,sass,css,html,git"/>
-      <br/><br/>
-     <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,python"/>
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,php,wordpress,laravel,python"/>
+      
    </a>
  </p>
  
