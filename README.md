@@ -1,7 +1,8 @@
 # < / Olá! Eu sou o Alex Matos ☕>
-<li>Desenvolvevor Front End</li>
+<ul>
+  <li> ⚛️ Front End Developer </li>
   <li> 🧑‍💻 Cursando Analise e desenvolvimento de sistemas</li>
-  <li> ♾️ Aprimorando o JavaScript / TypeScript</li>
+  <li> ♾️ Aprimorando o JavaScript / TypeScript / React </li>
 </ul>
 
 <br>
@@ -16,9 +17,11 @@
   
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=react,nodejs"/>
+     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs"/>
       <br/><br/>
-     <img src="https://skillicons.dev/icons?i=ts,js,styledcomponents,sass,css,html,git"/>
+     <img src="https://skillicons.dev/icons?i=bootstrap,sass,css,html,git"/>
+      <br/><br/>
+     <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,python"/>
    </a>
  </p>
  
@@ -32,4 +35,4 @@
  
   
 
-  </div>
+</div>
