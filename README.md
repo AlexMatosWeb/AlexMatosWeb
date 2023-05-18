@@ -1,24 +1,36 @@
-### Olá, eu sou o Alex Matos
+# < / Olá! Eu sou o Alex Matos ☕>
+<ul>
+  <li> ⚛️ Dev Full stack React | Node</li>
+  <li> 🧑‍💻 Cursando Analise e desenvolvimento de sistemas</li>
+  <li> ♾️ Aprimorando o JavaScript / TypeScript</li>
+</ul>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-matos-58615414b/)
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMatosWeb&show_icons=true&theme=dracula)
-
-### Tecnologias que uso nos meus projetos
-<div style="display: inline_block"></br>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </br></br>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </br></br>
-  <img align="center" alt="ANDROID STUDIO" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<div>
+  <a href="https://github.com/AlexMatosWeb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMatosWeb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMatosWeb&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+  
+   <br> <br>
+  
+<p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,nodejs"/>
+      <br/><br/>
+     <img src="https://skillicons.dev/icons?i=ts,js,styledcomponents,sass,css,html,git"/>
+   </a>
+ </p>
  
+ <br>
+ 
+  ### Pra entrar em contato comigo, segue as redes socias abaixo!
+ 
+<div> 
+  
+  <a href="https://www.linkedin.com/in/alex-matos-58615414b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  
 
-</br>
-
-Apaixonado por tecnologia!
-
+  </div>
