@@ -1,6 +1,5 @@
 # < / Olá! Eu sou o Alex Matos ☕>
-<ul>
-  <li> ⚛️ Dev Full stack React | Node</li>
+<li>Desenvolvevor Front End</li>
   <li> 🧑‍💻 Cursando Analise e desenvolvimento de sistemas</li>
   <li> ♾️ Aprimorando o JavaScript / TypeScript</li>
 </ul>
